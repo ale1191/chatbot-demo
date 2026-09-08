@@ -2,75 +2,75 @@ altair==6.2.2
 annotated-doc==0.0.5
 annotated-types==0.8.0
 anyio==4.15.1
-asttokens @ file:///C:/Users/task_177313470048861/croot/asttokens_1773135664256/work
+asttokens
 attrs==26.1.0
 certifi==2026.7.22
 charset-normalizer==3.5.1
 click==8.5.0
-colorama @ file:///C:/ci_311/colorama_1676422310965/work
-comm @ file:///C:/miniconda3/conda-bld/comm_1763119240032/work
-debugpy @ file:///C:/Users/task_Zjf71EwsRq-QX_0/croot/debugpy_1783354555614/work
-decorator @ file:///C:/Users/task_178169125463264/croot/decorator_1781691364601/work
-executing @ file:///C:/Users/task_178782631734301/croot/executing_1787826432839/work
+colorama
+comm
+debugpy
+decorator
+executing
 fastapi==0.141.1
 h11==0.16.0
 httpcore2==2.12.0
 httptools==0.8.0
 httpx2==2.12.0
 idna==3.19
-ipykernel @ file:///C:/Users/task_TobpNfcFS32P6_0/croot/ipykernel_1785763795400/work
-ipython @ file:///C:/Users/task_AhLQjFTZTyiBw_0/croot/ipython_1784577044104/work
-ipython_pygments_lexers @ file:///C:/b/abs_b66hj1lo19/croot/ipython_pygments_lexers_1744753262043/work
+ipykernel
+ipython
+ipython_pygments_lexers
 itsdangerous==2.2.0
-jedi @ file:///C:/Users/task_177868139753358/croot/jedi_1778681788146/work
+jedi
 Jinja2==3.1.6
 jiter==0.16.0
 jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
-jupyter_client @ file:///C:/Users/task_178118289617436/croot/jupyter_client_1781183303109/work
-jupyter_core @ file:///C:/miniconda3/conda-bld/jupyter_core_1764588344213/work
+jupyter_client
+jupyter_core
 MarkupSafe==3.0.3
-matplotlib-inline @ file:///C:/Users/task_LeB5tBpnRoWqU_0/croot/matplotlib-inline_1784795477149/work
+matplotlib-inline
 narwhals==2.25.0
-nest-asyncio2 @ file:///C:/Users/task_UBrlwv-RS_eH1_0/croot/nest-asyncio2_1785322590172/work
+nest-asyncio2
 numpy==2.4.6
 openai==3.8.0
 packaging==26.3
 pandas==3.0.5
-parso @ file:///C:/Users/task_177867409573477/croot/parso_1778674220283/work
+parso
 pillow==12.3.0
-platformdirs @ file:///C:/Users/task_MgUXk_4JQdS1W_0/croot/platformdirs_1785312169022/work
-prompt_toolkit @ file:///C:/Users/task_Q0zvGw-wQDmXu_0/croot/prompt-toolkit-split_1785325203392/work
+platformdirs
+prompt_toolkit
 protobuf==7.36.1
-psutil @ file:///C:/Users/task_RRfUhIHVSB2n7_0/croot/psutil_1784875595233/work
-pure_eval @ file:///C:/miniconda3/conda-bld/pure_eval_1757067065603/work
+psutil
+pure_eval
 pyarrow==25.0.1
 pydantic==2.13.5
 pydantic_core==2.46.5
 pydeck==0.9.3
-Pygments @ file:///C:/Users/task_177512672411206/croot/pygments_1775127041648/work
-python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+Pygments
+python-dateutil
 python-dotenv==1.2.3
 python-multipart==0.0.32
-pywin32 @ file:///C:/Users/task_178231499240660/croot/pywin32_1782315866831/work
-pyzmq @ file:///C:/miniconda3/conda-bld/pyzmq_1762375608224/work
+pywin32
+pyzmq
 referencing==0.37.0
 requests==2.34.2
 rpds-py==2026.6.3
-six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+six
 sniffio==1.3.1
-stack_data @ file:///C:/miniconda3/conda-bld/stack_data_1757067061065/work
+stack_data
 starlette==1.6.0
 streamlit==1.63.0
 toml==0.10.2
-tornado @ file:///C:/Users/task_178231420648454/croot/tornado_1782314863415/work
-traitlets @ file:///C:/Users/task_177874327775693/croot/traitlets_1778743388227/work
+tornado
+traitlets
 truststore==0.10.4
 typing-inspection==0.4.4
-typing_extensions @ file:///C:/Users/task_XGSspINPRKGcP_0/croot/typing_extensions_1784101076376/work
+typing_extensions
 tzdata==2026.3
 urllib3==2.7.0
 uvicorn==0.52.4
 watchdog==6.0.0
-wcwidth @ file:///C:/Users/task_Q-fRsFovQCORQ_1/croot/wcwidth_1783584623182/work
+wcwidth
 websockets==16.1.1
