@@ -28,7 +28,7 @@ if not exist ".env" (
 :: 启动后端和前端
 echo 正在启动项目...
 start "Chatbot-Backend" cmd /k python backend.py
-start "Chatbot-Frontend" cmd /k python frontend.py
+start "Chatbot-Frontend" cmd /k streamlit run frontend.py
 
 echo ======================================
 echo    项目已启动！请前往浏览器访问。
